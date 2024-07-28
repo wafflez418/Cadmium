@@ -5,7 +5,7 @@
 
 export BASEBOARD=oak
 export BOARD=hana
-export TYPE=laptop
+export TYPE=convertible-laptop
 
 export WLR_DISP=eDP-1
 export DISP_ROTATION=0
